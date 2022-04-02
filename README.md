@@ -13,7 +13,7 @@
 - Después de pulsar "." no será posible introducir más, a no ser que el punto ya existente en pantalla se elimine.
 - Pulsar una operación después de otra operación no será posible y mostrará un mensaje en pantalla ("Acción no permitida"), salvo si se usa la operación resta
 para indicar que el segundo valor introducido se trata de un número negativo.
-- Si se introduce un "0" como segundo valor en una división, mostrará un mensaje en pantalla de error.
+- Si se realiza una división entre "0", se mostrará un mensaje de error en pantalla.
 - Si se introduce un número n, n < 0 || n > 12, mostrará un mensaje en pantalla de error.
 
 ## Versión Java:
