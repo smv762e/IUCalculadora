@@ -14,7 +14,7 @@
 - Pulsar una operación después de otra operación no será posible y mostrará un mensaje en pantalla ("Acción no permitida"), salvo si se usa la operación resta
 para indicar que el segundo valor introducido se trata de un número negativo.
 - Si se realiza una división entre "0", se mostrará un mensaje de error en pantalla.
-- Si se introduce un número n, n < 0 || n > 12, mostrará un mensaje en pantalla de error.
+- Si se introduce un número n al hacer el factorial, n < 0 || n > 12, mostrará un mensaje en pantalla de error.
 
 ## Versión Java:
 JRE 1.8 o superior
